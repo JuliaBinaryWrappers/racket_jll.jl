@@ -1,0 +1,9 @@
+[[racket]]
+arch = "x86_64"
+git-tree-sha1 = "1f6c4f1da4ac5241abbc4b13543cb928c876a0dd"
+libc = "glibc"
+os = "linux"
+
+    [[racket.download]]
+    sha256 = "1fa5bd24a9923ba73ae15348ad3765be1b287d00898f5c863cd3097daf378fa6"
+    url = "https://github.com/JuliaBinaryWrappers/racket_jll.jl/releases/download/racket-v8.0.0+0/racket.v8.0.0.x86_64-linux-gnu.tar.gz"
